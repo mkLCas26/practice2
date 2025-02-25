@@ -1,7 +1,7 @@
 def login_authentication():
     # Setting the Credentials
-    username = input("Set your login username: ")
-    password = input("Set your pwd: ")
+    username = input("Set your username: ")
+    password = input("Set your password: ")
 
     print("Credentials have been set! You may now Log in.")
 
