@@ -1,1 +1,1 @@
-print("really jinjja")
+print("really")
